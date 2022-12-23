@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" alt="GIF" src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" width="300" height="150" />
 
 ![github-user-contribution](https://user-images.githubusercontent.com/115114695/201546902-67cfbdba-45aa-4d87-b45d-c144aa1fa57a.svg)
