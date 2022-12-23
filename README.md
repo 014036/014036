@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### :envelope_with_arrow: Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mustafa-a-02b78324a/
+
+<br />
+
+---
+
 ### :wrench: Languages and Tools:
 
 [<img align="left" alt="Java" width="24px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />][java]
